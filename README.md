@@ -18,18 +18,18 @@ Before starting the analysis, the raw dataset was thoroughly standardized, inclu
 
 ## Executive Summary  
 
-### Overview of Findings  
+#### Overview of Findings  
 Connecticut's EV market expanded from 10,349 vehicles in 2022 to 28,431 in 2024, nearly tripling in just 24 months. Growth moderated from 88% in 2023 to 46% in 2024 as the market matured. Geographic adoption is heavily concentrated in affluent Fairfield County towns. Tesla maintains a 37% market share despite growing competition, and consumer preference is decisively shifting toward electric SUVs, which grew from 38% to 46% market share over the same period.  
 
 *Below is the overview dashboard showing key performance trends*  
 ![Dashboard Visualization](assets/Dashboard.png)
 
-## Market Analysis  
+## In-Depth Analysis  
 
-### Growth Trajectory  
+#### Growth Trajectory  
 The Connecticut EV market increased 175% over the 24-month period, with consistent monthly growth showing no demand disruptions. While year-over-year growth rates moderated from 88% in 2023 to 46% in 2024, overall EV registration volumes continued climbing. This pattern reflects a healthy market maturation rather than declining consumer demand.  
 
-### Geographic Concentration  
+#### Geographic Concentration  
 Fairfield County dominates Connecticut's EV landscape, with an extreme concentration in affluent towns. The top 10 towns represent nearly one-third of the statewide EV market, seven of which are located in Fairfield County. This clustering correlates with median household incomes exceeding $100,000 and proximity to the New York metro area.  
 
 - **Greenwich:** 3,299 vehicles (6% of state total)  
@@ -37,10 +37,10 @@ Fairfield County dominates Connecticut's EV landscape, with an extreme concentra
 
 Together, these two towns alone account for nearly 11% of Connecticut's entire EV fleet.  
 
-### Competitive Landscape  
+#### Competitive Landscape  
 Tesla maintains 37% market share with 21,277 vehicles but faces rising competition from traditional manufacturers. Toyota is the closest competitor with 5,728 registrations (10% share), followed by Jeep at 5,024 vehicles (9% share). Chevrolet and Hyundai each hold approximately 5% market share.  
 
-### Consumer Preferences  
+#### Consumer Preferences  
 The electric SUV market expanded from 38% to 46% over 24 months, while passenger cars declined from 58% to 50%. This 8-percentage-point shift represents a fundamental change in EV buyer priorities toward larger family vehicles. Meanwhile, Battery Electric Vehicles consistently maintain a two-thirds market share, while Plug-in Hybrids hold steady at one-third —indicating that these technologies serve different consumer needs rather than directly competing.  
 
 ## Recommendations  
