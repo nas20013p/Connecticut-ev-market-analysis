@@ -23,7 +23,7 @@ Connecticut's EV market expanded from 10,349 vehicles in 2022 to 28,431 in 2024,
 
 *Below is the overview dashboard showing key performance trends*  
 ![Dashboard Visualization](assets/dashboard.png)
-
+## Market Analysis
 #### Growth Trajectory  
 The Connecticut EV market increased 175% over the 24-month period, with consistent monthly growth showing no demand disruptions. While year-over-year growth rates moderated from 88% in 2023 to 46% in 2024, overall EV registration volumes continued climbing. This pattern reflects a healthy market maturation rather than declining consumer demand.  
 
