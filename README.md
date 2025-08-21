@@ -45,17 +45,17 @@ The electric SUV market expanded from 38% to 46% over 24 months, while passenger
 
 ## Recommendations  
 
-1. **Concentrate Infrastructure Deployment in Fairfield County**  
+1. **Prioritize Infrastructure Deployment in Fairfield County and Nearby Areas**  
    Seven Fairfield County towns dominate the top 10 EV markets, representing over 15,000 vehicles, yet fast-charging infrastructure remains severely limited and primarily highway-based. For example, Greenwich, despite leading statewide adoption, has just one fast-charging station for non-Tesla owners. This highlights significant infrastructure gaps, making Fairfield County the top priority for fast-charger deployment to ensure maximum utilization and meet the needs of non-Tesla EVs.  
 
-2. **Focus Marketing Efforts on High-Growth Suburban Markets**  
+2. **Target High-Growth Suburban EV Markets**  
    Despite Tesla's 37% dominance, traditional manufacturers still maintain significant market presence. Dealers should focus on targeted marketing campaigns in Fairfield County, where consumers are seeking non-Tesla options. This approach will help build brand loyalty and capture additional market share growth through established dealer networks.  
 
-3. **Capitalize on the Electric SUV Trend with Inventory Planning**  
+3. **Capitalize on the Electric SUV Trend**  
    With SUV market share growing by 8 percentage points in 24 months, automakers should prioritize new electric SUV launches targeting family demographics. Dealers should also adjust inventory allocation to reduce wait times to prevent customers from shifting to alternatives.  
 
-4. **Maintain PHEV Product Lines Despite BEV Growth**  
-   With PHEVs holding steady at ~35% market share, manufacturers should continue hybrid offerings rather than pursuing BEV-only strategies, as over one-third of Connecticut's EV market still prefers plug-in hybrid technology.  
+4. **Maintain PHEV Presence Amid EV Growth**  
+   With PHEVs holding steady at ~35% market share, manufacturers should continue hybrid offerings rather than pursuing BEV-only strategies, as over one-third of Connecticut's EV market still prefers plug-in hybrid technology. PHEVs also address range-anxiety concerns and provide a practical bridge for consumers transitioning to fully electric vehicles. 
 
 ## Methodology and Assumptions  
 
