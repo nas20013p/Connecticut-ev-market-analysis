@@ -22,7 +22,7 @@ Before starting the analysis, the raw dataset was thoroughly standardized, inclu
 Connecticut's EV market expanded from 10,349 vehicles in 2022 to 28,431 in 2024, nearly tripling in just 24 months. Growth moderated from 88% in 2023 to 46% in 2024 as the market matured. Geographic adoption is heavily concentrated in affluent Fairfield County towns. Tesla maintains a 37% market share despite growing competition, and consumer preference is decisively shifting toward electric SUVs, which grew from 38% to 46% market share over the same period.  
 
 *Below is the overview dashboard showing key performance trends*  
-![Dashboard Visualization](assets/Dashboard.png)
+![Dashboard Visualization](assets/dashboard.png)
 
 #### Growth Trajectory  
 The Connecticut EV market increased 175% over the 24-month period, with consistent monthly growth showing no demand disruptions. While year-over-year growth rates moderated from 88% in 2023 to 46% in 2024, overall EV registration volumes continued climbing. This pattern reflects a healthy market maturation rather than declining consumer demand.  
